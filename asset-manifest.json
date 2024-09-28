@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ws101-castillo-todolist/static/css/main.c3548805.css",
+    "main.js": "/ws101-castillo-todolist/static/js/main.51625411.js",
+    "static/js/453.eb72d964.chunk.js": "/ws101-castillo-todolist/static/js/453.eb72d964.chunk.js",
+    "static/media/Edgerunners.mp4": "/ws101-castillo-todolist/static/media/Edgerunners.48c194a8cde67e1e7701.mp4",
+    "static/media/I_Really_Wanna_Stay_At_Your_House.mp3": "/ws101-castillo-todolist/static/media/I_Really_Wanna_Stay_At_Your_House.7038c802e836832df6b3.mp3",
+    "index.html": "/ws101-castillo-todolist/index.html",
+    "main.c3548805.css.map": "/ws101-castillo-todolist/static/css/main.c3548805.css.map",
+    "main.51625411.js.map": "/ws101-castillo-todolist/static/js/main.51625411.js.map",
+    "453.eb72d964.chunk.js.map": "/ws101-castillo-todolist/static/js/453.eb72d964.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3548805.css",
+    "static/js/main.51625411.js"
+  ]
+}
